@@ -17,3 +17,6 @@ $filename           = '';     // Eski veritabanızın adını bu bölüme yazaca
 
 
 Eski veritabanızı ve bigdump.php dosyasını aynı dosyaya veya aynı dizine koymalısınız. $filename kısmına yüklemek istediğiniz veritabanı uzantısıyla birlikte yazacaksınız. Üstteki bilgiler ise yeni oluşturduğunuz veritabanı ile ilgili bilgilerdir.
+
+#Detaylı Bilgi:
+http://www.ozerov.de/bigdump
