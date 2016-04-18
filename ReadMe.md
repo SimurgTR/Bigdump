@@ -1,4 +1,4 @@
-# Bigdump
+# Bigdump v0.36
 Bigdump ile büyük veritabanlarınızı kolaylıkla yükleyebilirsiniz.
 
 #Kurulum ve Kullanımı
